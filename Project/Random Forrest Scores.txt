@@ -1,0 +1,24 @@
+Random Forrest Scores
+
+US Data
+Fitting Time:  8.7e+03 seconds
+Training R2:   0.9426258709616279
+Training MSE:  0.006496970145172555
+Testing R2:    0.5700767623915663
+Testing MSE:   0.04869969067946805
+
+NYC Data
+Fitting Time:  1.4e+03 seconds
+Training R2:   0.9505421890590448
+Training MSE:  0.004143404008493393
+Testing R2:    0.6328696647833465
+Testing MSE:   0.029884764534033853
+
+Chi Data
+Fitting Time:  1.5e+02 seconds
+Training R2:   0.9368452359821481
+Training MSE:  0.006477729621036619
+Testing R2:    0.5391537659177896
+Testing MSE:   0.04881112944349173
+
+
